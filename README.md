@@ -43,4 +43,19 @@ Upon analyzing the visualization in Power BI, several key findings and insights 
 - Comparing water access levels across provinces, it is observed that Kilimani has the lowest access rate at 28%, followed by Hawassa with 30%, Sokoto with 31%, Akatsi with 37%, and Amanzi with 41%. The national average across Maji Ndogo stands at 34%.
 
 
-![image alt]()
+
+
+![image alt](https://github.com/young-odhiambo/Maji_Ndogo/blob/a1ee94f177119249fd2c13812c2d03ff3bf22d72/Screenshot%20(179).png)
+
+From the cime related visualizations the key findings were:
+- 69% of water collectors are women
+- 64% of crimes in water collection related crime are women
+- Women are most likely to be victims of harasment, followed by sexual assault
+- Most water related crimes against women occur on Friday and Saturday, and at 22:00 at night.
+- In Amanzi, women face significantly less risk of being crime victims while Kilimani women face significantly high risk of being crime victims
+
+# Recommendations
+
+1. Prioritize High-Impact Upgrades: Allocate a significant portion of the budget to provinces with the highest population and lowest access to basic water services, such as Kilimani and Sokoto. Focus on implementing high-impact upgrades identified in the visualization, such as installing RO filters and repairing broken taps, to address immediate water access challenges effectively.
+
+2. Invest in Rural Infrastructure: Given that the rural population primarily relies on shared taps and wells for water access, allocate resources towards improving infrastructure in rural areas. Consider initiatives to enhance the reliability and safety of shared water sources, including the installation of new taps and the implementation of water quality monitoring systems.
