@@ -47,7 +47,7 @@ Upon analyzing the visualization in Power BI, several key findings and insights 
 
 ![image alt](https://github.com/young-odhiambo/Maji_Ndogo/blob/a1ee94f177119249fd2c13812c2d03ff3bf22d72/Screenshot%20(179).png)
 
-From the cime related visualizations the key findings were:
+From the crime related visualizations the key findings were:
 - 69% of water collectors are women
 - 64% of crimes in water collection related crime are women
 - Women are most likely to be victims of harasment, followed by sexual assault
