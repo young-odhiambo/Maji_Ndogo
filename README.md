@@ -25,3 +25,19 @@ Steps taken toward the completion of this project include:
 - EDA
 
 # _Insights from Maji Ndogo Analysis_
+
+![image alt](https://github.com/young-odhiambo/Maji_Ndogo/blob/963aa40115fa9e8013d25df1bb7dde6791676c13/Screenshot%20(177).png)
+
+Upon analyzing the visualization in Power BI, several key findings and insights regarding water access in Maji Ndogo emerge:
+
+- The survey reveals that only about 34% of the population in Maji Ndogo currently has access to basic water services, meeting quality standards free from biological and chemical contaminants and ensuring minimal collection time. This implies that the majority of the population, constituting approximately 66%, still faces challenges in accessing clean water.
+
+- An estimated budget of $147 million is required to address these challenges and improve water access. Allocations across the five provinces in Maji Ndogo vary, with Sokoto and Kilimani provinces requiring the highest budgets of $40 million and $39 million respectively, while Hawassa and Amanzi need relatively lower budgets of $23 million and $13 million respectively.
+
+- In terms of the number of required upgrades, Kilimani and Sokoto provinces stand out with the highest figures, needing 6700 and 5603 upgrades respectively. In contrast, Amanzi requires the fewest upgrades, totaling 3748.
+
+- The primary challenges faced by individuals in Maji Ndogo regarding water access include broken taps, contaminated wells, and overcrowded tap areas leading to long wait times. These challenges affect a significant portion of the population, as Maji Ndogo has a total population of approximately 28 million people.
+
+- Upon further examination, it is evident that rural populations predominantly rely on shared taps and wells as their primary water sources, while urban populations have more access to taps within their homes.
+
+- Comparing water access levels across provinces, it is observed that Kilimani has the lowest access rate at 28%, followed by Hawassa with 30%, Sokoto with 31%, Akatsi with 37%, and Amanzi with 41%. The national average across Maji Ndogo stands at 34%.
